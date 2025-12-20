@@ -1,0 +1,10 @@
+input_path: "terra_02_000004.asc"  
+output_dir: "./output"
+method: "random"  # random, voxel или fps
+n_samples: 1000
+voxel_size: 0.1
+seed: 42
+visualize: true
+save_vis_to: "./output/vis.png"
+save_xyz: true
+fps_init_index: 0
