@@ -1,0 +1,176 @@
+{
+  "file": "valve_0026_lidar_classes.ply",
+  "steps": [
+    {
+      "step": "load",
+      "ok": true,
+      "n_points": 12010,
+      "dt_s": 0.022411108016967773
+    },
+    {
+      "step": "preprocess",
+      "ok": true,
+      "n_points": 11587,
+      "dt_s": 0.017586946487426758
+    },
+    {
+      "step": "split",
+      "ok": true,
+      "n_segments": 11,
+      "dt_s": 0.0003249645233154297
+    },
+    {
+      "step": "segment",
+      "segment": 2,
+      "n_points": 632,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 8914,
+      "ok": true,
+      "dt_s": 0.161
+    },
+    {
+      "step": "segment",
+      "segment": 3,
+      "n_points": 91,
+      "type": "tube",
+      "method": "ball_pivoting",
+      "params": {
+        "radii": [
+          0.03210978387201463,
+          0.05351630645335771,
+          0.08562609032537234
+        ]
+      },
+      "mesh_triangles": 127,
+      "ok": true,
+      "dt_s": 0.025
+    },
+    {
+      "step": "segment",
+      "segment": 5,
+      "n_points": 1606,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 12302,
+      "ok": true,
+      "dt_s": 0.26
+    },
+    {
+      "step": "segment",
+      "segment": 6,
+      "n_points": 194,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 8305,
+      "ok": true,
+      "dt_s": 0.143
+    },
+    {
+      "step": "segment",
+      "segment": 7,
+      "n_points": 73,
+      "type": "tube",
+      "method": "ball_pivoting",
+      "params": {
+        "radii": [
+          0.030931832657925436,
+          0.051553054429875726,
+          0.08248488708780116
+        ]
+      },
+      "mesh_triangles": 113,
+      "ok": true,
+      "dt_s": 0.028
+    },
+    {
+      "step": "segment",
+      "segment": 8,
+      "n_points": 1100,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 9164,
+      "ok": true,
+      "dt_s": 0.194
+    },
+    {
+      "step": "segment",
+      "segment": 9,
+      "n_points": 1774,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 11900,
+      "ok": true,
+      "dt_s": 0.214
+    },
+    {
+      "step": "segment",
+      "segment": 10,
+      "n_points": 3369,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 18148,
+      "ok": true,
+      "dt_s": 0.301
+    },
+    {
+      "step": "segment",
+      "segment": 11,
+      "n_points": 710,
+      "type": "plane",
+      "method": "alpha_shape",
+      "params": {
+        "alpha": 0.049146266724113506
+      },
+      "mesh_triangles": 1434,
+      "ok": true,
+      "dt_s": 0.044
+    },
+    {
+      "step": "segment",
+      "segment": 12,
+      "n_points": 1351,
+      "type": "plane",
+      "method": "alpha_shape",
+      "params": {
+        "alpha": 0.048311676635337315
+      },
+      "mesh_triangles": 2426,
+      "ok": true,
+      "dt_s": 0.067
+    },
+    {
+      "step": "segment",
+      "segment": 13,
+      "n_points": 668,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 5150,
+      "ok": true,
+      "dt_s": 0.157
+    }
+  ],
+  "ok": true,
+  "total_s": 1.639
+}

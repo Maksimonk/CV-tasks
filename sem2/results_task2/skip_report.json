@@ -1,0 +1,164 @@
+[
+  {
+    "file": "valve_0014_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "        Failed to close loop [5: 32 35 51] | (82314): (1280,1304,1436)\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 31 34 51] | (82185): (1280,1300,1440)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp_f_uvp4i.jsonl.log"
+  },
+  {
+    "file": "valve_0026_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 5: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 36 39 5] | (67406): (1316,1344,1072)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp3b2z6yst.jsonl.log"
+  },
+  {
+    "file": "valve_0064_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "        Failed to close loop [4: 13 21 7] | (32663): (1248,1368,1152)\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 14 22 7] | (32672): (1248,1376,1144)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmphuq8kd2h.jsonl.log"
+  },
+  {
+    "file": "valve_0157_lidar_classes.ply",
+    "reason": "SIGSEGV (segfault в нативном коде)",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": -11,
+    "timed_out": false,
+    "stderr_tail": "[START] valve_0157_lidar_classes.ply\n  seg 2: complex poisson {'depth': 8}\n  seg 3: tube ball_pivoting {'radii': [0.0316434130715421, 0.052739021785903506, 0.0843824348574456]}\n  seg 5: complex poisson {'depth': 8}",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpfy2h2h8b.jsonl.log"
+  },
+  {
+    "file": "valve_0173_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 6: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 20 15 6] | (31182): (1352,1280,1136)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpug3amk7i.jsonl.log"
+  },
+  {
+    "file": "valve_0182_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "        Failed to close loop [4: 22 8 0] | (23368): (1376,1152,1032)\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 21 7 0] | (23279): (1368,1152,1040)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpkhb_d_5s.jsonl.log"
+  },
+  {
+    "file": "valve_0218_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 2: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 17 15 0] | (23391): (1304,1280,1040)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp_lbcot0b.jsonl.log"
+  },
+  {
+    "file": "valve_0235_lidar_classes.ply",
+    "reason": "SIGSEGV (segfault в нативном коде)",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": -11,
+    "timed_out": false,
+    "stderr_tail": "  seg 7: tube ball_pivoting {'radii': [0.030513438391595767, 0.050855730652659616, 0.08136916904425538]}\n  seg 8: complex poisson {'depth': 8}\n  seg 9: complex poisson {'depth': 8}\n  seg 10: complex poisson {'depth': 8}",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp9u56n3_t.jsonl.log"
+  },
+  {
+    "file": "valve_0237_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 9: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 17 15 5] | (29871): (1304,1280,1120)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp2ctd5a7s.jsonl.log"
+  },
+  {
+    "file": "valve_0271_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 2: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 9 23 25] | (55983): (1184,1408,1432)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpw6lqz4un.jsonl.log"
+  },
+  {
+    "file": "valve_0275_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 10: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 13 16 46] | (85641): (1136,1152,1396)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpoenv11vu.jsonl.log"
+  },
+  {
+    "file": "valve_0317_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "        Failed to close loop [5: 46 24 13] | (67952): (1396,1216,1136)\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 47 23 13] | (67895): (1400,1216,1132)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmp4908i4f5.jsonl.log"
+  },
+  {
+    "file": "valve_0345_lidar_classes.ply",
+    "reason": "SIGSEGV (segfault в нативном коде)",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": -11,
+    "timed_out": false,
+    "stderr_tail": "[START] valve_0345_lidar_classes.ply\n  seg 2: complex poisson {'depth': 8}\n  seg 3: complex poisson {'depth': 8}\n  seg 5: complex poisson {'depth': 8}",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpsbf18yqj.jsonl.log"
+  },
+  {
+    "file": "valve_0358_lidar_classes.ply",
+    "reason": "SIGSEGV (segfault в нативном коде)",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": -11,
+    "timed_out": false,
+    "stderr_tail": "  seg 10: complex poisson {'depth': 8}\n  seg 11: plane alpha_shape {'alpha': 0.049999001637595346}\n  seg 12: plane alpha_shape {'alpha': 0.04830916051593585}\n  seg 13: complex poisson {'depth': 8}",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpntukh7i2.jsonl.log"
+  },
+  {
+    "file": "valve_0374_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 3: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [4: 0 15 13] | (39982): (1024,1280,1240)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmprgqz14s2.jsonl.log"
+  },
+  {
+    "file": "valve_0389_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 9: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 31 43 13] | (69555): (1280,1376,1132)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpsr88kh5g.jsonl.log"
+  },
+  {
+    "file": "valve_0429_lidar_classes.ply",
+    "reason": "сбой Poisson (Open3D), результат не записан",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": 0,
+    "timed_out": false,
+    "stderr_tail": "  seg 10: complex poisson {'depth': 8}\n[ERROR] /Users/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson/PoissonRecon/Src/FEMTree.IsoSurface.specialized.inl (Line 1463)\n        operator()\n        Failed to close loop [5: 51 16 17] | (71005): (1440,1152,1164)",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpcuezfopz.jsonl.log"
+  },
+  {
+    "file": "valve_0432_lidar_classes.ply",
+    "reason": "SIGSEGV (segfault в нативном коде)",
+    "hint": "похоже на сбой Poisson-реконструкции",
+    "exitcode": -11,
+    "timed_out": false,
+    "stderr_tail": "  seg 7: tube ball_pivoting {'radii': [0.03321871891574468, 0.05536453152624113, 0.08858325044198581]}\n  seg 8: complex poisson {'depth': 8}\n  seg 9: tube ball_pivoting {'radii': [0.02713884477966111, 0.04523140796610185, 0.07237025274576296]}\n  seg 10: complex poisson {'depth': 8}",
+    "stderr_path": "/var/folders/5g/fpbmm48j4xnbpxkgqmp9j1180000gn/T/tmpr37_4iu9.jsonl.log"
+  }
+]

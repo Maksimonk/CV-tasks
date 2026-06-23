@@ -1,0 +1,3314 @@
+[
+  {
+    "file": "valve_0001_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014239884999319925,
+    "global_hausdorff": 0.14230495236596585,
+    "global_chamfer": 0.047032955332139026,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0002_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014887665546598258,
+    "global_hausdorff": 0.11021005553022097,
+    "global_chamfer": 0.044050810372267074,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0004_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013600329310589286,
+    "global_hausdorff": 0.1131473537054181,
+    "global_chamfer": 0.03796791045022087,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0005_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014994872212044683,
+    "global_hausdorff": 0.14634203755305397,
+    "global_chamfer": 0.05133004162650508,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0007_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01432059219328187,
+    "global_hausdorff": 0.11276147996742751,
+    "global_chamfer": 0.04372027851779282,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0008_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014315183579052131,
+    "global_hausdorff": 0.08728891709741492,
+    "global_chamfer": 0.039403955321326234,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0010_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014699950512537592,
+    "global_hausdorff": 0.1403686936658112,
+    "global_chamfer": 0.04832750213738482,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0011_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014277103015591387,
+    "global_hausdorff": 0.14900100789035436,
+    "global_chamfer": 0.04702914525271004,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0012_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014504925870268736,
+    "global_hausdorff": 0.09554466556433183,
+    "global_chamfer": 0.03966648246322572,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0013_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015380553060911984,
+    "global_hausdorff": 0.13267067789195094,
+    "global_chamfer": 0.05047472678532315,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0014_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014234700298486305,
+    "global_hausdorff": 0.1236338224893181,
+    "global_chamfer": 0.044415314583894916,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0016_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014140493219908576,
+    "global_hausdorff": 0.1119867970144551,
+    "global_chamfer": 0.04276792817299733,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0020_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013869139896973613,
+    "global_hausdorff": 0.11074724221944719,
+    "global_chamfer": 0.0424126400605222,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0021_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015018579103573066,
+    "global_hausdorff": 0.14282473818581568,
+    "global_chamfer": 0.04984918903923924,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0022_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013866780422303283,
+    "global_hausdorff": 0.12669350374191962,
+    "global_chamfer": 0.04387924722067787,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0024_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015402713133644696,
+    "global_hausdorff": 0.11339130886155155,
+    "global_chamfer": 0.04548683110484329,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0025_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.014690739942335846,
+    "global_hausdorff": 0.11257117166425834,
+    "global_chamfer": 0.041477647738524234,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0026_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01528692272543632,
+    "global_hausdorff": 0.11541436459118942,
+    "global_chamfer": 0.04677073493600324,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0027_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014210078415811149,
+    "global_hausdorff": 0.158392645724843,
+    "global_chamfer": 0.048473930062464934,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0028_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014316051416055874,
+    "global_hausdorff": 0.12017222710807995,
+    "global_chamfer": 0.04369014883397915,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0029_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0136505490790063,
+    "global_hausdorff": 0.14237833662632832,
+    "global_chamfer": 0.045905066088623936,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0030_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015026107166418636,
+    "global_hausdorff": 0.14261490705621735,
+    "global_chamfer": 0.05072534194846241,
+    "global_artifacts": 24
+  },
+  {
+    "file": "valve_0031_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014461026587927382,
+    "global_hausdorff": 0.08864943693428433,
+    "global_chamfer": 0.038553250346475276,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0032_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013933639403928675,
+    "global_hausdorff": 0.08460637100206032,
+    "global_chamfer": 0.03665726428185884,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0033_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014987927372508057,
+    "global_hausdorff": 0.13945670374145633,
+    "global_chamfer": 0.04868003439555308,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0035_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015518763133375472,
+    "global_hausdorff": 0.18770810938995383,
+    "global_chamfer": 0.05799632960460854,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0036_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015112373860969421,
+    "global_hausdorff": 0.10943874985881924,
+    "global_chamfer": 0.04357735141360428,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0037_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014475534338539384,
+    "global_hausdorff": 0.08508751547090018,
+    "global_chamfer": 0.036454393785697196,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0038_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014681504148341344,
+    "global_hausdorff": 0.08942102898189488,
+    "global_chamfer": 0.038068960395931425,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0039_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01471681337661906,
+    "global_hausdorff": 0.09763994250930427,
+    "global_chamfer": 0.04089525736912095,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0040_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014773198512067086,
+    "global_hausdorff": 0.17060547533808856,
+    "global_chamfer": 0.052112054220279744,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0041_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014507266199096628,
+    "global_hausdorff": 0.08364194796952559,
+    "global_chamfer": 0.03756962475605684,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0043_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014886453300185136,
+    "global_hausdorff": 0.1484923716737335,
+    "global_chamfer": 0.050082729548089816,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0044_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01570592487344647,
+    "global_hausdorff": 0.15027719060707453,
+    "global_chamfer": 0.053415036073913895,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0045_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014017840393687253,
+    "global_hausdorff": 0.11302282666446153,
+    "global_chamfer": 0.04306096605159933,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0046_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013961965109166734,
+    "global_hausdorff": 0.1394047473099592,
+    "global_chamfer": 0.045861292849928084,
+    "global_artifacts": 57
+  },
+  {
+    "file": "valve_0047_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014688755590214184,
+    "global_hausdorff": 0.09580753642057717,
+    "global_chamfer": 0.039774549156458436,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0049_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01495351595720745,
+    "global_hausdorff": 0.17153184508057234,
+    "global_chamfer": 0.051058223189392085,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0050_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014870439435698315,
+    "global_hausdorff": 0.16806053313999966,
+    "global_chamfer": 0.054769942401258556,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0051_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014468371399385447,
+    "global_hausdorff": 0.11528689125221098,
+    "global_chamfer": 0.045279441555149784,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0052_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014286758912271429,
+    "global_hausdorff": 0.09364977516523315,
+    "global_chamfer": 0.038167428043838894,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0053_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014186045350505423,
+    "global_hausdorff": 0.08163892294194974,
+    "global_chamfer": 0.03689067379574509,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0054_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015290753141802135,
+    "global_hausdorff": 0.13665772276898516,
+    "global_chamfer": 0.05110518155773716,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0055_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015184693860120706,
+    "global_hausdorff": 0.14887982905778313,
+    "global_chamfer": 0.05226686022104283,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0056_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014043740469942901,
+    "global_hausdorff": 0.10213924949601445,
+    "global_chamfer": 0.04090314758612736,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0058_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015775148739154803,
+    "global_hausdorff": 0.12450825685685502,
+    "global_chamfer": 0.04847264001762579,
+    "global_artifacts": 24
+  },
+  {
+    "file": "valve_0060_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015191433207851312,
+    "global_hausdorff": 0.10377326109798495,
+    "global_chamfer": 0.04281088734151869,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0061_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015471419596587679,
+    "global_hausdorff": 0.16268830224339043,
+    "global_chamfer": 0.05543630382997873,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0062_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014393403348232931,
+    "global_hausdorff": 0.10699036077009097,
+    "global_chamfer": 0.04250935361565204,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0065_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014648545961072882,
+    "global_hausdorff": 0.08336534697375445,
+    "global_chamfer": 0.03879377630055484,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0066_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014669555493156189,
+    "global_hausdorff": 0.09675093920634432,
+    "global_chamfer": 0.04036538237842555,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0067_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01472169314887604,
+    "global_hausdorff": 0.14081586383413103,
+    "global_chamfer": 0.04871028226218515,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0068_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014794467671417108,
+    "global_hausdorff": 0.13288975026439617,
+    "global_chamfer": 0.05067978704208216,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0070_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013796631687225397,
+    "global_hausdorff": 0.10330787103682326,
+    "global_chamfer": 0.04002336270263461,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0071_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015337736972777452,
+    "global_hausdorff": 0.15941137622127233,
+    "global_chamfer": 0.05319114810159243,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0072_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014195386895968953,
+    "global_hausdorff": 0.1311133642954216,
+    "global_chamfer": 0.04634297098740702,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0073_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014944148482001143,
+    "global_hausdorff": 0.0989875111140334,
+    "global_chamfer": 0.04100454768401039,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0074_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014403285088846175,
+    "global_hausdorff": 0.07048244853156352,
+    "global_chamfer": 0.03363494322113049,
+    "global_artifacts": 58
+  },
+  {
+    "file": "valve_0076_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015526164190950695,
+    "global_hausdorff": 0.13758316562657297,
+    "global_chamfer": 0.05052667223849276,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0077_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014238240273838628,
+    "global_hausdorff": 0.12648150151048398,
+    "global_chamfer": 0.0455002767182024,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0079_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01469908136141667,
+    "global_hausdorff": 0.1045797764348934,
+    "global_chamfer": 0.0423153405263374,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0080_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015211521103920057,
+    "global_hausdorff": 0.12435384287672441,
+    "global_chamfer": 0.04736450340574873,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0081_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01404402195953318,
+    "global_hausdorff": 0.07027843072780035,
+    "global_chamfer": 0.033788931608819586,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0082_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013413127051088389,
+    "global_hausdorff": 0.10153192188483484,
+    "global_chamfer": 0.03777048807002297,
+    "global_artifacts": 69
+  },
+  {
+    "file": "valve_0083_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015156602197674689,
+    "global_hausdorff": 0.1630806540016133,
+    "global_chamfer": 0.05449135700500487,
+    "global_artifacts": 55
+  },
+  {
+    "file": "valve_0086_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01549610244122668,
+    "global_hausdorff": 0.16353601442528187,
+    "global_chamfer": 0.054470158120958526,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0087_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01448229002721986,
+    "global_hausdorff": 0.10697428323785207,
+    "global_chamfer": 0.04338215297100226,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0088_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015338181309550843,
+    "global_hausdorff": 0.13116126002930592,
+    "global_chamfer": 0.04748561467991143,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0089_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015252485462762531,
+    "global_hausdorff": 0.1624438686725643,
+    "global_chamfer": 0.055343923376232874,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0090_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015239175166152075,
+    "global_hausdorff": 0.10537935252471987,
+    "global_chamfer": 0.04488852430432099,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0091_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013179227617688291,
+    "global_hausdorff": 0.097933206931084,
+    "global_chamfer": 0.038109298630037196,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0092_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01488353910117981,
+    "global_hausdorff": 0.1526849937962343,
+    "global_chamfer": 0.04788810408901307,
+    "global_artifacts": 22
+  },
+  {
+    "file": "valve_0093_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014218468332563666,
+    "global_hausdorff": 0.10405393378759582,
+    "global_chamfer": 0.040951240156952576,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0094_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015596374010846764,
+    "global_hausdorff": 0.15078545023391884,
+    "global_chamfer": 0.051170655504742,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0098_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014776533819511928,
+    "global_hausdorff": 0.08561088914945462,
+    "global_chamfer": 0.03786920974224529,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0099_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014189704902582955,
+    "global_hausdorff": 0.11988711415167329,
+    "global_chamfer": 0.04354781856129264,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0100_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01371108673385703,
+    "global_hausdorff": 0.12565359489967834,
+    "global_chamfer": 0.04327541110944445,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0101_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014525512580990123,
+    "global_hausdorff": 0.11757274570416633,
+    "global_chamfer": 0.0449158337217419,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0102_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014855207064842774,
+    "global_hausdorff": 0.08171895016219534,
+    "global_chamfer": 0.03680204861033969,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0103_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014385927673779192,
+    "global_hausdorff": 0.0785753529914979,
+    "global_chamfer": 0.036250578787523004,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0104_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014253322660301375,
+    "global_hausdorff": 0.10515590335812101,
+    "global_chamfer": 0.04087279350906575,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0105_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014434730570686654,
+    "global_hausdorff": 0.13106889912181896,
+    "global_chamfer": 0.04636771845877394,
+    "global_artifacts": 50
+  },
+  {
+    "file": "valve_0106_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014530850072821504,
+    "global_hausdorff": 0.12535892659266362,
+    "global_chamfer": 0.04565596238359741,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0107_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014869754778479627,
+    "global_hausdorff": 0.11363912251646434,
+    "global_chamfer": 0.04450977751301819,
+    "global_artifacts": 49
+  },
+  {
+    "file": "valve_0108_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014886533813167353,
+    "global_hausdorff": 0.09588235949381683,
+    "global_chamfer": 0.04129416864840321,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0110_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015551916693504956,
+    "global_hausdorff": 0.13434577019984897,
+    "global_chamfer": 0.04934229379793701,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0111_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01452714929713259,
+    "global_hausdorff": 0.12519867431583803,
+    "global_chamfer": 0.04481570135057661,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0112_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014951348371243962,
+    "global_hausdorff": 0.1026118511679692,
+    "global_chamfer": 0.0419372256362588,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0113_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013902318217136767,
+    "global_hausdorff": 0.11834885130512827,
+    "global_chamfer": 0.04269104180401592,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0114_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015093916708973554,
+    "global_hausdorff": 0.10194622050393658,
+    "global_chamfer": 0.043768353814163316,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0115_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015293856631663655,
+    "global_hausdorff": 0.10806820140176794,
+    "global_chamfer": 0.04390749984191643,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0116_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014719027083371004,
+    "global_hausdorff": 0.13237769957110956,
+    "global_chamfer": 0.04957525771909317,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0117_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013424826316522517,
+    "global_hausdorff": 0.08611378383850633,
+    "global_chamfer": 0.036559934213049636,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0118_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014067169078265948,
+    "global_hausdorff": 0.1525378611284064,
+    "global_chamfer": 0.04517086809027821,
+    "global_artifacts": 51
+  },
+  {
+    "file": "valve_0119_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014300954948779893,
+    "global_hausdorff": 0.12475401324393907,
+    "global_chamfer": 0.04450844192453202,
+    "global_artifacts": 49
+  },
+  {
+    "file": "valve_0120_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015747520075723366,
+    "global_hausdorff": 0.15543902818567729,
+    "global_chamfer": 0.05035460081751569,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0122_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014621226802047449,
+    "global_hausdorff": 0.13410218098377535,
+    "global_chamfer": 0.04763650561077261,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0123_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014981597976530541,
+    "global_hausdorff": 0.10758828587510334,
+    "global_chamfer": 0.04400597485029665,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0124_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0155679997714216,
+    "global_hausdorff": 0.12681841546257996,
+    "global_chamfer": 0.04930640602166168,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0126_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0145168704447843,
+    "global_hausdorff": 0.10267248746513974,
+    "global_chamfer": 0.04161655387403461,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0127_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01443689185760885,
+    "global_hausdorff": 0.10307581879324772,
+    "global_chamfer": 0.04093815636421209,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0130_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014488803428324377,
+    "global_hausdorff": 0.12800781774542577,
+    "global_chamfer": 0.0453251934295657,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0131_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0139845568019595,
+    "global_hausdorff": 0.08591714069900123,
+    "global_chamfer": 0.03732666579453847,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0133_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014997844376029204,
+    "global_hausdorff": 0.1393631792639965,
+    "global_chamfer": 0.04928631449212074,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0134_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01559026415946184,
+    "global_hausdorff": 0.13797833322524802,
+    "global_chamfer": 0.052633842638424695,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0135_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014570829883041378,
+    "global_hausdorff": 0.10468532804710554,
+    "global_chamfer": 0.04092549500632724,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0136_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014676911643919988,
+    "global_hausdorff": 0.11914096123340986,
+    "global_chamfer": 0.044042313153902814,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0137_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013718888515968461,
+    "global_hausdorff": 0.08542524720258128,
+    "global_chamfer": 0.03785977880467535,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0138_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014139019612667737,
+    "global_hausdorff": 0.10645354198867345,
+    "global_chamfer": 0.04045485398186012,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0139_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014726350572792275,
+    "global_hausdorff": 0.10451679135700362,
+    "global_chamfer": 0.04134506600810077,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0140_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014832110824962304,
+    "global_hausdorff": 0.11602628726250659,
+    "global_chamfer": 0.04482369887843166,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0141_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014760881136240524,
+    "global_hausdorff": 0.10719198190915848,
+    "global_chamfer": 0.04335476456152325,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0142_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014190843352040369,
+    "global_hausdorff": 0.09904417360945596,
+    "global_chamfer": 0.03960835942586071,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0143_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014451294246289456,
+    "global_hausdorff": 0.10344281380563136,
+    "global_chamfer": 0.04208766747763332,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0144_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01347777900516163,
+    "global_hausdorff": 0.06406927103646233,
+    "global_chamfer": 0.031138760275820312,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0145_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014884365220076521,
+    "global_hausdorff": 0.09732490094468056,
+    "global_chamfer": 0.042259701989137866,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0146_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014342110788584994,
+    "global_hausdorff": 0.11084323207312019,
+    "global_chamfer": 0.0430231364995056,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0147_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015512063516357335,
+    "global_hausdorff": 0.13555728742709067,
+    "global_chamfer": 0.05141956612557016,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0148_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015092269620806622,
+    "global_hausdorff": 0.13843023084630082,
+    "global_chamfer": 0.046896028346631244,
+    "global_artifacts": 24
+  },
+  {
+    "file": "valve_0149_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014550184861416035,
+    "global_hausdorff": 0.10343614941405445,
+    "global_chamfer": 0.04075466989486692,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0150_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014652911860167005,
+    "global_hausdorff": 0.08638374446023148,
+    "global_chamfer": 0.03885472890647396,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0151_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015015465566290706,
+    "global_hausdorff": 0.06325909221447319,
+    "global_chamfer": 0.032068596678297596,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0152_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014817374220751106,
+    "global_hausdorff": 0.10453728026785476,
+    "global_chamfer": 0.041439198727695005,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0153_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015086035705648287,
+    "global_hausdorff": 0.15776361865982083,
+    "global_chamfer": 0.050211097703009605,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0156_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01458181697678342,
+    "global_hausdorff": 0.12706437454934683,
+    "global_chamfer": 0.048342475816718876,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0159_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015093632159422003,
+    "global_hausdorff": 0.1552688230212223,
+    "global_chamfer": 0.04847091987543263,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0160_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014719895748267611,
+    "global_hausdorff": 0.1545944309991725,
+    "global_chamfer": 0.0503508135023583,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0161_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014384337316604767,
+    "global_hausdorff": 0.10932286337513034,
+    "global_chamfer": 0.043715102740204875,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0162_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015167652738886669,
+    "global_hausdorff": 0.12909596287334382,
+    "global_chamfer": 0.047033184538036364,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0163_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014931906686144945,
+    "global_hausdorff": 0.1038658751487804,
+    "global_chamfer": 0.04332755993989691,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0165_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.015115773577704137,
+    "global_hausdorff": 0.14513638905345422,
+    "global_chamfer": 0.04833504106579794,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0167_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014527507366491103,
+    "global_hausdorff": 0.096937238809804,
+    "global_chamfer": 0.039538295798615654,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0168_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0154691104104209,
+    "global_hausdorff": 0.1751448299018746,
+    "global_chamfer": 0.05691695460668656,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0169_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014660086200550022,
+    "global_hausdorff": 0.07915576356313973,
+    "global_chamfer": 0.03688705206890222,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0170_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014302596743428026,
+    "global_hausdorff": 0.10959936463171174,
+    "global_chamfer": 0.0426787319234015,
+    "global_artifacts": 57
+  },
+  {
+    "file": "valve_0171_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01376220857140771,
+    "global_hausdorff": 0.08438905566486779,
+    "global_chamfer": 0.03629376524298543,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0172_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015029683530871609,
+    "global_hausdorff": 0.13405125109444524,
+    "global_chamfer": 0.04705087306077398,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0173_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01516319420153604,
+    "global_hausdorff": 0.15363204124800814,
+    "global_chamfer": 0.05156986788796726,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0174_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014172324403562576,
+    "global_hausdorff": 0.0816988806277499,
+    "global_chamfer": 0.0354902695711338,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0175_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014028135997656442,
+    "global_hausdorff": 0.08986318454896008,
+    "global_chamfer": 0.037278746264577375,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0176_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014642515296641354,
+    "global_hausdorff": 0.08791550388488022,
+    "global_chamfer": 0.03880961100837618,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0177_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015179474916732633,
+    "global_hausdorff": 0.12181104784044276,
+    "global_chamfer": 0.04621626520136191,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0178_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014520858207775452,
+    "global_hausdorff": 0.10969529687166729,
+    "global_chamfer": 0.04315881381377449,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0179_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014587024257808804,
+    "global_hausdorff": 0.1321346850224764,
+    "global_chamfer": 0.04653267719977298,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0180_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014335495879099412,
+    "global_hausdorff": 0.08063016124695327,
+    "global_chamfer": 0.03755989062182914,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0181_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013523890911124643,
+    "global_hausdorff": 0.13414103723660434,
+    "global_chamfer": 0.044255123938911504,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0182_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014965695594610766,
+    "global_hausdorff": 0.10087220055466106,
+    "global_chamfer": 0.042852904030506005,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0183_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015593337610920016,
+    "global_hausdorff": 0.17151667209788374,
+    "global_chamfer": 0.057200697745532714,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0184_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014648209331586243,
+    "global_hausdorff": 0.12421245408543141,
+    "global_chamfer": 0.04650023517839913,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0186_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014683124089310162,
+    "global_hausdorff": 0.13885652341543084,
+    "global_chamfer": 0.04653383935629337,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0188_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014325816647265729,
+    "global_hausdorff": 0.1172882592407666,
+    "global_chamfer": 0.041900082974269615,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0189_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015007146631479834,
+    "global_hausdorff": 0.12007950334129394,
+    "global_chamfer": 0.0446677066397861,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0190_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015748007145004374,
+    "global_hausdorff": 0.1435516888742985,
+    "global_chamfer": 0.05075211167614614,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0191_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014671265097178638,
+    "global_hausdorff": 0.10117081715055119,
+    "global_chamfer": 0.04159606083986626,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0192_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014814187525220436,
+    "global_hausdorff": 0.12747324715475777,
+    "global_chamfer": 0.04511809282438752,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0193_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014422916638574064,
+    "global_hausdorff": 0.11032285062476645,
+    "global_chamfer": 0.04169299237487463,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0194_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014441137332076899,
+    "global_hausdorff": 0.08485831767221329,
+    "global_chamfer": 0.03686239387250159,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0195_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015556587725762617,
+    "global_hausdorff": 0.12191630833158337,
+    "global_chamfer": 0.04986336849081717,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0196_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014236976410017626,
+    "global_hausdorff": 0.07373566169777994,
+    "global_chamfer": 0.034917274656503856,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0197_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014439490607749364,
+    "global_hausdorff": 0.13798453001066474,
+    "global_chamfer": 0.04619088344284341,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0198_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015289894636295317,
+    "global_hausdorff": 0.10813904428574812,
+    "global_chamfer": 0.043284951637653946,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0199_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014966049367912357,
+    "global_hausdorff": 0.13160177989779834,
+    "global_chamfer": 0.049472302774229635,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0200_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013963509682575983,
+    "global_hausdorff": 0.10368457231852155,
+    "global_chamfer": 0.03912981185850778,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0201_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0142540357284861,
+    "global_hausdorff": 0.10039342604301293,
+    "global_chamfer": 0.0413358781020799,
+    "global_artifacts": 56
+  },
+  {
+    "file": "valve_0202_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01438936656839316,
+    "global_hausdorff": 0.12678009356279385,
+    "global_chamfer": 0.045179061491848096,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0203_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014572935181869154,
+    "global_hausdorff": 0.11621773081045401,
+    "global_chamfer": 0.042853725964811726,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0205_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014015849854685765,
+    "global_hausdorff": 0.12173162931793849,
+    "global_chamfer": 0.04491792707020389,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0206_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014541767028137113,
+    "global_hausdorff": 0.07925498407006636,
+    "global_chamfer": 0.03633650559277046,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0207_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01387565847183289,
+    "global_hausdorff": 0.09036360876961244,
+    "global_chamfer": 0.0378149655479229,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0208_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014310989643007492,
+    "global_hausdorff": 0.14071647949289398,
+    "global_chamfer": 0.04836729503981693,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0209_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015233214521425776,
+    "global_hausdorff": 0.13598635412844454,
+    "global_chamfer": 0.05109636843890458,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0211_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014727913595564492,
+    "global_hausdorff": 0.0863605880535569,
+    "global_chamfer": 0.03903867557636232,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0214_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01482536213784605,
+    "global_hausdorff": 0.10493668353876451,
+    "global_chamfer": 0.0419461078062272,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0215_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014317130358869248,
+    "global_hausdorff": 0.08921219041934043,
+    "global_chamfer": 0.03849541453222141,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0216_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014800696500588897,
+    "global_hausdorff": 0.1218666294653553,
+    "global_chamfer": 0.04724580473715921,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0217_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015120236596115125,
+    "global_hausdorff": 0.15342598034812804,
+    "global_chamfer": 0.0514296508716909,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0218_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014829231085071688,
+    "global_hausdorff": 0.15232679547484682,
+    "global_chamfer": 0.05323644396542951,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0220_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014064725271748084,
+    "global_hausdorff": 0.08400412969836409,
+    "global_chamfer": 0.0371731933384721,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0221_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014779821647178065,
+    "global_hausdorff": 0.11423613096738627,
+    "global_chamfer": 0.04163450937320242,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0222_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014599051082354025,
+    "global_hausdorff": 0.11103040613184839,
+    "global_chamfer": 0.04125156853086197,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0223_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015596099811241713,
+    "global_hausdorff": 0.10894113191712981,
+    "global_chamfer": 0.04557794978326386,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0226_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01479893355760977,
+    "global_hausdorff": 0.1042916548189018,
+    "global_chamfer": 0.04105508082521758,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0227_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01423778402405264,
+    "global_hausdorff": 0.14954098338268082,
+    "global_chamfer": 0.048513299980535565,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0229_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015111123980823015,
+    "global_hausdorff": 0.18138882622518848,
+    "global_chamfer": 0.0545772618124899,
+    "global_artifacts": 57
+  },
+  {
+    "file": "valve_0230_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014635335575939101,
+    "global_hausdorff": 0.09658919193813885,
+    "global_chamfer": 0.04046365132602521,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0231_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01504833769124674,
+    "global_hausdorff": 0.08456429722880547,
+    "global_chamfer": 0.0390389660753699,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0232_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014238090455026145,
+    "global_hausdorff": 0.13875691848547164,
+    "global_chamfer": 0.04917170787479594,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0233_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014436189800411859,
+    "global_hausdorff": 0.15904919108143317,
+    "global_chamfer": 0.050396974136504936,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0234_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.014457901445404653,
+    "global_hausdorff": 0.07274243826556094,
+    "global_chamfer": 0.0338747221684897,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0235_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01434712765520186,
+    "global_hausdorff": 0.14196014256001827,
+    "global_chamfer": 0.046620463518668984,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0236_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01401935921709485,
+    "global_hausdorff": 0.10767755574491546,
+    "global_chamfer": 0.041129170457973305,
+    "global_artifacts": 25
+  },
+  {
+    "file": "valve_0237_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014630793631384092,
+    "global_hausdorff": 0.1131590687222738,
+    "global_chamfer": 0.04349998094951541,
+    "global_artifacts": 25
+  },
+  {
+    "file": "valve_0238_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014653602721384527,
+    "global_hausdorff": 0.09763270429836286,
+    "global_chamfer": 0.040532182915370564,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0239_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014662806405200303,
+    "global_hausdorff": 0.1331185004283492,
+    "global_chamfer": 0.04660220641389501,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0240_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01522435366092153,
+    "global_hausdorff": 0.12735051441165676,
+    "global_chamfer": 0.04726025901945388,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0241_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013775891505814567,
+    "global_hausdorff": 0.07834436029223218,
+    "global_chamfer": 0.033995549661654946,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0243_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.015207391492903184,
+    "global_hausdorff": 0.09804030348378942,
+    "global_chamfer": 0.042001029693786746,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0244_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01495547447156993,
+    "global_hausdorff": 0.12282539361673592,
+    "global_chamfer": 0.044479949883679724,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0245_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013495951652664944,
+    "global_hausdorff": 0.0835416050701136,
+    "global_chamfer": 0.036094812208428785,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0246_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014880815762973582,
+    "global_hausdorff": 0.11527080817602128,
+    "global_chamfer": 0.04420512028500401,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0247_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014385061615385117,
+    "global_hausdorff": 0.10044494657971302,
+    "global_chamfer": 0.04226220090409024,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0248_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015262158055917194,
+    "global_hausdorff": 0.13676336831664035,
+    "global_chamfer": 0.04715091851957275,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0249_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014768313023698621,
+    "global_hausdorff": 0.13508969152503855,
+    "global_chamfer": 0.04871797086741593,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0250_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01511725446187505,
+    "global_hausdorff": 0.13119936936210422,
+    "global_chamfer": 0.04654693404156627,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0251_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014493522636591673,
+    "global_hausdorff": 0.1395682487824714,
+    "global_chamfer": 0.04625123986712964,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0252_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014556661510982635,
+    "global_hausdorff": 0.10409531765697197,
+    "global_chamfer": 0.04320115942728005,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0253_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015635410969886212,
+    "global_hausdorff": 0.15732737582682185,
+    "global_chamfer": 0.05123554689357462,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0254_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015290522078671182,
+    "global_hausdorff": 0.17946953468865473,
+    "global_chamfer": 0.052265006307263925,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0256_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01539038090261931,
+    "global_hausdorff": 0.13396773755071278,
+    "global_chamfer": 0.04894385926388741,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0257_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014458453481994692,
+    "global_hausdorff": 0.1534288982153512,
+    "global_chamfer": 0.0478988687722217,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0259_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014089257421780143,
+    "global_hausdorff": 0.09467287212544419,
+    "global_chamfer": 0.03877358452695054,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0260_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014401802294658326,
+    "global_hausdorff": 0.11018161545880423,
+    "global_chamfer": 0.04412276373313425,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0261_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014170859647953706,
+    "global_hausdorff": 0.11768455035777445,
+    "global_chamfer": 0.04352055895978532,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0262_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014862593843496348,
+    "global_hausdorff": 0.12526373935655105,
+    "global_chamfer": 0.04524199128649254,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0263_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014528259964425834,
+    "global_hausdorff": 0.08771030156388654,
+    "global_chamfer": 0.03894983349906257,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0264_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0147773034018777,
+    "global_hausdorff": 0.17764388282400687,
+    "global_chamfer": 0.05227927400946744,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0265_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014308066564698664,
+    "global_hausdorff": 0.08926625823309091,
+    "global_chamfer": 0.037225020658239634,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0266_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014718651381351696,
+    "global_hausdorff": 0.12284909962110431,
+    "global_chamfer": 0.04719702367225642,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0267_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015240156152630266,
+    "global_hausdorff": 0.11775470046348123,
+    "global_chamfer": 0.045105353607755014,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0268_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015179337952611734,
+    "global_hausdorff": 0.1492516713962498,
+    "global_chamfer": 0.05264133590308226,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0269_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015084861815664433,
+    "global_hausdorff": 0.15499709689910224,
+    "global_chamfer": 0.051559038460398526,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0270_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014300420535023292,
+    "global_hausdorff": 0.1138655462389718,
+    "global_chamfer": 0.04421241212987217,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0271_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01590093551599041,
+    "global_hausdorff": 0.15521467144389908,
+    "global_chamfer": 0.05555263038433303,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0272_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015549127583719792,
+    "global_hausdorff": 0.1515532188179196,
+    "global_chamfer": 0.052111688939470074,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0273_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014251794379234297,
+    "global_hausdorff": 0.12175670832837712,
+    "global_chamfer": 0.04193380195333446,
+    "global_artifacts": 51
+  },
+  {
+    "file": "valve_0274_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014424943063523462,
+    "global_hausdorff": 0.10333846017258047,
+    "global_chamfer": 0.04193976169288941,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0275_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01449293445005072,
+    "global_hausdorff": 0.1098334769484964,
+    "global_chamfer": 0.041891245851725,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0276_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014932861206093885,
+    "global_hausdorff": 0.08587415667150841,
+    "global_chamfer": 0.03841461171494593,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0277_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01497814464819905,
+    "global_hausdorff": 0.1606103116066286,
+    "global_chamfer": 0.05342687102470678,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0280_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0169363030548941,
+    "global_hausdorff": 0.06105348957689642,
+    "global_chamfer": 0.032465710785710866,
+    "global_artifacts": 65
+  },
+  {
+    "file": "valve_0281_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015241709196193658,
+    "global_hausdorff": 0.1334127770508365,
+    "global_chamfer": 0.04983175960707697,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0282_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01553223171859641,
+    "global_hausdorff": 0.11581630316378384,
+    "global_chamfer": 0.047144692628898276,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0283_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013955601976644643,
+    "global_hausdorff": 0.0836986427782353,
+    "global_chamfer": 0.036785463128897335,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0284_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014398236408612626,
+    "global_hausdorff": 0.13018088381815177,
+    "global_chamfer": 0.04759544342276093,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0285_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014579722600390537,
+    "global_hausdorff": 0.11591496009987308,
+    "global_chamfer": 0.04418147588821436,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0286_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014820357407713718,
+    "global_hausdorff": 0.10273639906828735,
+    "global_chamfer": 0.04304102270884687,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0287_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014490567137017966,
+    "global_hausdorff": 0.08838882542077471,
+    "global_chamfer": 0.03963298427564674,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0288_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01419125996361742,
+    "global_hausdorff": 0.11227863679095007,
+    "global_chamfer": 0.04223593936212176,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0289_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014385662401468963,
+    "global_hausdorff": 0.10642874542345533,
+    "global_chamfer": 0.04299894390749057,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0290_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01405791681705596,
+    "global_hausdorff": 0.10668232711110039,
+    "global_chamfer": 0.04277397967687246,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0291_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014009495703323261,
+    "global_hausdorff": 0.07655978520872399,
+    "global_chamfer": 0.034949113722870115,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0292_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0133171156802071,
+    "global_hausdorff": 0.10101613751412478,
+    "global_chamfer": 0.0379654873770896,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0293_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0148365684961747,
+    "global_hausdorff": 0.17146174991161425,
+    "global_chamfer": 0.052780613011995284,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0294_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014483753020802511,
+    "global_hausdorff": 0.13960254436342567,
+    "global_chamfer": 0.049239988312884744,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0296_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01451797808221308,
+    "global_hausdorff": 0.13462976769021717,
+    "global_chamfer": 0.04565072730064419,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0298_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014545517815427579,
+    "global_hausdorff": 0.09584157367153207,
+    "global_chamfer": 0.04135537595910895,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0299_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014447266064784355,
+    "global_hausdorff": 0.15510830488180816,
+    "global_chamfer": 0.049901116455436025,
+    "global_artifacts": 62
+  },
+  {
+    "file": "valve_0301_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014432196388995415,
+    "global_hausdorff": 0.15284307498134844,
+    "global_chamfer": 0.05239241627458214,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0303_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016359105809108265,
+    "global_hausdorff": 0.14001789115245514,
+    "global_chamfer": 0.05338557187543454,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0304_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015420435201762537,
+    "global_hausdorff": 0.1464545739075193,
+    "global_chamfer": 0.049638012675444494,
+    "global_artifacts": 49
+  },
+  {
+    "file": "valve_0305_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013607892275770304,
+    "global_hausdorff": 0.10048810546831964,
+    "global_chamfer": 0.03825816778611397,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0306_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014307553399083486,
+    "global_hausdorff": 0.1479213493301307,
+    "global_chamfer": 0.04807441112118534,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0307_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015038775086431077,
+    "global_hausdorff": 0.10394505360461334,
+    "global_chamfer": 0.04392437878867063,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0309_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01382139414206219,
+    "global_hausdorff": 0.0714971925930185,
+    "global_chamfer": 0.03432542325603914,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0310_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014517584531118668,
+    "global_hausdorff": 0.09291763273954758,
+    "global_chamfer": 0.03985681284158508,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0311_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014256157928911488,
+    "global_hausdorff": 0.0873104860352497,
+    "global_chamfer": 0.039915738424385824,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0312_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013714951007927493,
+    "global_hausdorff": 0.09593136330827987,
+    "global_chamfer": 0.03853617146413806,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0313_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014588248455814785,
+    "global_hausdorff": 0.11394238591220268,
+    "global_chamfer": 0.04326494320884049,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0314_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014668425016272241,
+    "global_hausdorff": 0.16062369829486153,
+    "global_chamfer": 0.04944163664191286,
+    "global_artifacts": 52
+  },
+  {
+    "file": "valve_0315_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016111249904973493,
+    "global_hausdorff": 0.10560219042284191,
+    "global_chamfer": 0.04437183224925446,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0317_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014107071519101505,
+    "global_hausdorff": 0.07900061411409864,
+    "global_chamfer": 0.0360769007245028,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0318_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016586929317120244,
+    "global_hausdorff": 0.1745422469463477,
+    "global_chamfer": 0.0602707410303854,
+    "global_artifacts": 25
+  },
+  {
+    "file": "valve_0319_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014895380534023403,
+    "global_hausdorff": 0.1636842041981013,
+    "global_chamfer": 0.05361903821655088,
+    "global_artifacts": 25
+  },
+  {
+    "file": "valve_0320_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014788994340079959,
+    "global_hausdorff": 0.11290738951468422,
+    "global_chamfer": 0.04455641547265723,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0321_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01548404243056241,
+    "global_hausdorff": 0.18602268973025912,
+    "global_chamfer": 0.05597822176517226,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0322_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01422239592161255,
+    "global_hausdorff": 0.12825373739525733,
+    "global_chamfer": 0.04476922873669068,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0323_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015156722555067068,
+    "global_hausdorff": 0.11474455131896938,
+    "global_chamfer": 0.044522661581044655,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0324_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014937578689936278,
+    "global_hausdorff": 0.1373922949580447,
+    "global_chamfer": 0.04911876921569447,
+    "global_artifacts": 54
+  },
+  {
+    "file": "valve_0326_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015044149302912788,
+    "global_hausdorff": 0.11426065540120453,
+    "global_chamfer": 0.04312616547410256,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0329_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014616695207338505,
+    "global_hausdorff": 0.07869394942520778,
+    "global_chamfer": 0.03564784718266842,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0330_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014969348744087103,
+    "global_hausdorff": 0.11436497952538295,
+    "global_chamfer": 0.04294640454557632,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0331_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014849493184364416,
+    "global_hausdorff": 0.09555039071960689,
+    "global_chamfer": 0.041738153873133496,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0332_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01458762806835826,
+    "global_hausdorff": 0.13188348148654366,
+    "global_chamfer": 0.046575890132413325,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0333_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0148268242918657,
+    "global_hausdorff": 0.10308476353134226,
+    "global_chamfer": 0.042352916594770244,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0334_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014587653548454777,
+    "global_hausdorff": 0.09071762397988391,
+    "global_chamfer": 0.04091808875538386,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0335_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014345412405355785,
+    "global_hausdorff": 0.09988400691453028,
+    "global_chamfer": 0.040987428394800886,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0336_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014681512663139724,
+    "global_hausdorff": 0.07117356333604652,
+    "global_chamfer": 0.03514641331522996,
+    "global_artifacts": 50
+  },
+  {
+    "file": "valve_0338_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015341572204599394,
+    "global_hausdorff": 0.19315870272471827,
+    "global_chamfer": 0.05559990164332708,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0339_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014483462814279622,
+    "global_hausdorff": 0.09785995924465266,
+    "global_chamfer": 0.04079190909982001,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0340_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014469701040820222,
+    "global_hausdorff": 0.09436063267006846,
+    "global_chamfer": 0.040893278414954756,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0341_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013883642662886542,
+    "global_hausdorff": 0.09254885426087084,
+    "global_chamfer": 0.0387216687898433,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0342_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015150173211316342,
+    "global_hausdorff": 0.13213473146890056,
+    "global_chamfer": 0.04815740370096269,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0343_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013533030467573728,
+    "global_hausdorff": 0.15117029115371242,
+    "global_chamfer": 0.046029918265034456,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0344_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01522902527031766,
+    "global_hausdorff": 0.17218298877637297,
+    "global_chamfer": 0.051118420491976256,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0345_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014701037589784093,
+    "global_hausdorff": 0.14018429838709934,
+    "global_chamfer": 0.050666340804257595,
+    "global_artifacts": 51
+  },
+  {
+    "file": "valve_0346_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014763995370841491,
+    "global_hausdorff": 0.10392071270827286,
+    "global_chamfer": 0.040693866917109245,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0347_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01432868126276849,
+    "global_hausdorff": 0.1345579422541545,
+    "global_chamfer": 0.047811258833586626,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0348_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015851542373062338,
+    "global_hausdorff": 0.14426416404235093,
+    "global_chamfer": 0.05392402534604639,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0349_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015253885067129177,
+    "global_hausdorff": 0.14084053584826325,
+    "global_chamfer": 0.05289518625005443,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0350_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014052242745510916,
+    "global_hausdorff": 0.10213752291922314,
+    "global_chamfer": 0.041353112438460994,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0351_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013920020426201003,
+    "global_hausdorff": 0.12366280375633373,
+    "global_chamfer": 0.04275356431252958,
+    "global_artifacts": 24
+  },
+  {
+    "file": "valve_0352_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014487502133100183,
+    "global_hausdorff": 0.12536110884546459,
+    "global_chamfer": 0.04715345919361726,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0354_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014840475675078433,
+    "global_hausdorff": 0.1243075586336085,
+    "global_chamfer": 0.046175201417089105,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0358_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015796827596145504,
+    "global_hausdorff": 0.1337928755871016,
+    "global_chamfer": 0.051877676749025735,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0359_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013574486870982543,
+    "global_hausdorff": 0.0766398238241354,
+    "global_chamfer": 0.0328911452906891,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0361_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014440558638705634,
+    "global_hausdorff": 0.09577372168523035,
+    "global_chamfer": 0.037903927817988084,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0362_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01450164685876707,
+    "global_hausdorff": 0.09224096401064831,
+    "global_chamfer": 0.04111254679981441,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0363_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01554689813156497,
+    "global_hausdorff": 0.12055739462563721,
+    "global_chamfer": 0.04787346108493146,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0365_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014840023386284323,
+    "global_hausdorff": 0.11904412887282995,
+    "global_chamfer": 0.04427469390767011,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0366_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014038435830418295,
+    "global_hausdorff": 0.0879169791470277,
+    "global_chamfer": 0.038050295153882495,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0368_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01518326471242507,
+    "global_hausdorff": 0.13250872560096805,
+    "global_chamfer": 0.048724093052477276,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0369_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014356165705911835,
+    "global_hausdorff": 0.10643448018946657,
+    "global_chamfer": 0.043773631388626555,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0370_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014836140047035052,
+    "global_hausdorff": 0.09954992245051958,
+    "global_chamfer": 0.04098863408760299,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0372_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014235987753262297,
+    "global_hausdorff": 0.1532633640026282,
+    "global_chamfer": 0.045704772946255086,
+    "global_artifacts": 55
+  },
+  {
+    "file": "valve_0373_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014958981261266008,
+    "global_hausdorff": 0.0932594005588107,
+    "global_chamfer": 0.04356818125498106,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0374_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015061892355273658,
+    "global_hausdorff": 0.1310120521128768,
+    "global_chamfer": 0.04742709270124419,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0375_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01499449280837832,
+    "global_hausdorff": 0.14339413562826353,
+    "global_chamfer": 0.048019697769205553,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0376_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015110496282892178,
+    "global_hausdorff": 0.10290397028646969,
+    "global_chamfer": 0.04371900273066946,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0377_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015725232627803072,
+    "global_hausdorff": 0.11362099049383433,
+    "global_chamfer": 0.047316372921367124,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0378_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.01458155353506625,
+    "global_hausdorff": 0.1066806773243296,
+    "global_chamfer": 0.04010021514368686,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0380_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014327366817989108,
+    "global_hausdorff": 0.08904955821978015,
+    "global_chamfer": 0.03787382249447862,
+    "global_artifacts": 43
+  },
+  {
+    "file": "valve_0381_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015384346064117798,
+    "global_hausdorff": 0.1226077616207971,
+    "global_chamfer": 0.04776049849539574,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0382_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013855841409608773,
+    "global_hausdorff": 0.0914505945318921,
+    "global_chamfer": 0.03864350182319343,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0383_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014759482152465402,
+    "global_hausdorff": 0.1215818794172312,
+    "global_chamfer": 0.044722733858688746,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0384_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014863217739178525,
+    "global_hausdorff": 0.13961594040905162,
+    "global_chamfer": 0.0501866160600848,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0385_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01566998611984581,
+    "global_hausdorff": 0.13477549025748753,
+    "global_chamfer": 0.05164622953141294,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0386_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014713486164301988,
+    "global_hausdorff": 0.11854211031890063,
+    "global_chamfer": 0.046394672714424476,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0387_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014094955210768709,
+    "global_hausdorff": 0.12490851808225308,
+    "global_chamfer": 0.044303954570737165,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0389_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014011576480255954,
+    "global_hausdorff": 0.14175854631947554,
+    "global_chamfer": 0.046127460031141224,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0390_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014201916690528829,
+    "global_hausdorff": 0.11577349748691548,
+    "global_chamfer": 0.04360303546032371,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0391_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015060945179760438,
+    "global_hausdorff": 0.12525017381644118,
+    "global_chamfer": 0.046511505708421344,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0392_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.01611415634614556,
+    "global_hausdorff": 0.12495632855787529,
+    "global_chamfer": 0.04883769409731587,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0393_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014920104072552768,
+    "global_hausdorff": 0.12174932959597491,
+    "global_chamfer": 0.04684168633295245,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0394_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015304376462488995,
+    "global_hausdorff": 0.16194556889878303,
+    "global_chamfer": 0.0523819627405647,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0395_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014301405752515338,
+    "global_hausdorff": 0.10873123328177846,
+    "global_chamfer": 0.04205784728672142,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0396_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0152036095360821,
+    "global_hausdorff": 0.11043915500821203,
+    "global_chamfer": 0.042646395696820424,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0397_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015003669425809813,
+    "global_hausdorff": 0.11009767496972712,
+    "global_chamfer": 0.0439287440493332,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0398_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013867108204595571,
+    "global_hausdorff": 0.09276390216129583,
+    "global_chamfer": 0.03690303669269949,
+    "global_artifacts": 51
+  },
+  {
+    "file": "valve_0399_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014579664112843116,
+    "global_hausdorff": 0.12106985652431425,
+    "global_chamfer": 0.04462583319325404,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0400_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014259866270086678,
+    "global_hausdorff": 0.15123999101431881,
+    "global_chamfer": 0.050433077497624886,
+    "global_artifacts": 23
+  },
+  {
+    "file": "valve_0401_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014453496407898373,
+    "global_hausdorff": 0.1794624158169427,
+    "global_chamfer": 0.05336763917907538,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0402_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014056229846535633,
+    "global_hausdorff": 0.15631952991079942,
+    "global_chamfer": 0.04919209918971951,
+    "global_artifacts": 58
+  },
+  {
+    "file": "valve_0403_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014959810079140146,
+    "global_hausdorff": 0.10039813572809059,
+    "global_chamfer": 0.04292839614236509,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0404_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01550833835176112,
+    "global_hausdorff": 0.16707852194550984,
+    "global_chamfer": 0.05695907792847519,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0406_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014844480054788244,
+    "global_hausdorff": 0.10498138930460875,
+    "global_chamfer": 0.04380201165033247,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0407_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014386466085370715,
+    "global_hausdorff": 0.0978847749004482,
+    "global_chamfer": 0.04099353563414563,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0408_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01506771767472607,
+    "global_hausdorff": 0.11967438755890139,
+    "global_chamfer": 0.04592140816055095,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0409_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015041215330529517,
+    "global_hausdorff": 0.13596899977679774,
+    "global_chamfer": 0.048896325744028316,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0410_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015149389289314393,
+    "global_hausdorff": 0.10382131939014647,
+    "global_chamfer": 0.042274000802452624,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0411_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015588547249633775,
+    "global_hausdorff": 0.14212655922560663,
+    "global_chamfer": 0.05106338614190738,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0412_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01509850063738959,
+    "global_hausdorff": 0.10815266256916937,
+    "global_chamfer": 0.044256912562900486,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0413_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01565597713496896,
+    "global_hausdorff": 0.1657793519262545,
+    "global_chamfer": 0.057860271019236534,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0415_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014952263403176987,
+    "global_hausdorff": 0.10949795677599042,
+    "global_chamfer": 0.04517524714754877,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0416_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014462554677865246,
+    "global_hausdorff": 0.09369633694818413,
+    "global_chamfer": 0.038994185254550354,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0418_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014609130219019426,
+    "global_hausdorff": 0.13546289889965385,
+    "global_chamfer": 0.04555317404301038,
+    "global_artifacts": 40
+  },
+  {
+    "file": "valve_0419_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014922798252335777,
+    "global_hausdorff": 0.12492617857383448,
+    "global_chamfer": 0.04601493909432964,
+    "global_artifacts": 35
+  },
+  {
+    "file": "valve_0420_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0143750685636991,
+    "global_hausdorff": 0.1266312752515233,
+    "global_chamfer": 0.04507534156174655,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0423_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014764115794887171,
+    "global_hausdorff": 0.1522655069191834,
+    "global_chamfer": 0.05289315527638371,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0424_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01528818538040944,
+    "global_hausdorff": 0.09773270643905642,
+    "global_chamfer": 0.04066917447126417,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0425_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014452380872003255,
+    "global_hausdorff": 0.11493992621644682,
+    "global_chamfer": 0.0428884875436147,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0426_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013975772940333133,
+    "global_hausdorff": 0.10261092010908922,
+    "global_chamfer": 0.038489478055576065,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0427_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01451216467985431,
+    "global_hausdorff": 0.09399921959811927,
+    "global_chamfer": 0.03979043786041734,
+    "global_artifacts": 36
+  },
+  {
+    "file": "valve_0429_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014177989468278846,
+    "global_hausdorff": 0.10955179677466846,
+    "global_chamfer": 0.04250041138956052,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0430_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014703884908403837,
+    "global_hausdorff": 0.08275651391566716,
+    "global_chamfer": 0.037812209719546054,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0431_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014971974815423903,
+    "global_hausdorff": 0.14191638497205908,
+    "global_chamfer": 0.04877611354761919,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0432_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01528135374373877,
+    "global_hausdorff": 0.1323422288509408,
+    "global_chamfer": 0.04787727895506296,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0433_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014441324226105997,
+    "global_hausdorff": 0.09503443600571931,
+    "global_chamfer": 0.04081113201744416,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0434_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014608573054191103,
+    "global_hausdorff": 0.07902953408318825,
+    "global_chamfer": 0.03715763128284434,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0435_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015667722499529448,
+    "global_hausdorff": 0.1319244969489034,
+    "global_chamfer": 0.0499808247764208,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0437_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014893844942197443,
+    "global_hausdorff": 0.162604429218735,
+    "global_chamfer": 0.052127570471477425,
+    "global_artifacts": 39
+  },
+  {
+    "file": "valve_0438_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014105175473142162,
+    "global_hausdorff": 0.08720706320773197,
+    "global_chamfer": 0.037995816696310754,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0439_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013593749035980594,
+    "global_hausdorff": 0.11462341195711706,
+    "global_chamfer": 0.041980085854283054,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0440_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014675285124359281,
+    "global_hausdorff": 0.12243413132510962,
+    "global_chamfer": 0.043789115884059496,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0441_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01499697846926397,
+    "global_hausdorff": 0.10566559433851028,
+    "global_chamfer": 0.044016507845581095,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0442_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014778562268314633,
+    "global_hausdorff": 0.09786686230856464,
+    "global_chamfer": 0.0416263639604235,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0444_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014407896785664526,
+    "global_hausdorff": 0.12221597717554335,
+    "global_chamfer": 0.04598306802566353,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0445_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014262902325487171,
+    "global_hausdorff": 0.11257320226278171,
+    "global_chamfer": 0.04364260615759932,
+    "global_artifacts": 33
+  },
+  {
+    "file": "valve_0447_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014873154811797417,
+    "global_hausdorff": 0.1019735490997727,
+    "global_chamfer": 0.04101410557597427,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0448_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01536941697420627,
+    "global_hausdorff": 0.1181644594675316,
+    "global_chamfer": 0.045847964869882935,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0449_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013615339044016348,
+    "global_hausdorff": 0.14820054873866023,
+    "global_chamfer": 0.0487388840576318,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0450_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015670460987639964,
+    "global_hausdorff": 0.12021404805139037,
+    "global_chamfer": 0.048457585840839396,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0451_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014507258133632038,
+    "global_hausdorff": 0.10007546058630833,
+    "global_chamfer": 0.040964809289811485,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0452_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014223034174714733,
+    "global_hausdorff": 0.11672666965367484,
+    "global_chamfer": 0.044618020278988924,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0453_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014737651019876355,
+    "global_hausdorff": 0.12927301199633734,
+    "global_chamfer": 0.04870348482750714,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0454_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014950342095190562,
+    "global_hausdorff": 0.12218864022805893,
+    "global_chamfer": 0.04704933454017645,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0455_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014463038637797737,
+    "global_hausdorff": 0.1407744813807032,
+    "global_chamfer": 0.047901717756888146,
+    "global_artifacts": 29
+  },
+  {
+    "file": "valve_0456_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014176216035805668,
+    "global_hausdorff": 0.11802429053203217,
+    "global_chamfer": 0.0435399557991681,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0457_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015490681463263488,
+    "global_hausdorff": 0.15982025934820693,
+    "global_chamfer": 0.053407888529011634,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0458_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01475930063874886,
+    "global_hausdorff": 0.12265632532328258,
+    "global_chamfer": 0.04581241719757578,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0459_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01501256191821388,
+    "global_hausdorff": 0.12146165391817912,
+    "global_chamfer": 0.046366465260889986,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0460_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015073288645286979,
+    "global_hausdorff": 0.14941637596460736,
+    "global_chamfer": 0.05082600969790135,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0461_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014985811466144772,
+    "global_hausdorff": 0.10509161969326071,
+    "global_chamfer": 0.04146379401855438,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0462_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015462361744841087,
+    "global_hausdorff": 0.12526868597457988,
+    "global_chamfer": 0.04715890347255895,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0463_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014462395919909816,
+    "global_hausdorff": 0.10947379788111815,
+    "global_chamfer": 0.04213604458488363,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0464_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014448254521601448,
+    "global_hausdorff": 0.1599262316800574,
+    "global_chamfer": 0.05174489763791542,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0466_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015460780367926013,
+    "global_hausdorff": 0.12349364911829334,
+    "global_chamfer": 0.04795851471452017,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0467_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015215989152083567,
+    "global_hausdorff": 0.14195664351771936,
+    "global_chamfer": 0.05099904104813597,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0468_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01476030633671166,
+    "global_hausdorff": 0.12260751843897377,
+    "global_chamfer": 0.04654990252796931,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0469_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015399190634409133,
+    "global_hausdorff": 0.15118490956873495,
+    "global_chamfer": 0.05367331621276802,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0470_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013956146374872212,
+    "global_hausdorff": 0.0743638025769211,
+    "global_chamfer": 0.03474841591029007,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0471_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015252254155129758,
+    "global_hausdorff": 0.07938614846328068,
+    "global_chamfer": 0.0385964131035658,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0472_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014843461675058742,
+    "global_hausdorff": 0.12424756964763059,
+    "global_chamfer": 0.047049145230036664,
+    "global_artifacts": 48
+  },
+  {
+    "file": "valve_0473_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014198908133014729,
+    "global_hausdorff": 0.08481633084605912,
+    "global_chamfer": 0.03808871697776333,
+    "global_artifacts": 32
+  },
+  {
+    "file": "valve_0474_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015302897183831474,
+    "global_hausdorff": 0.1363456636686859,
+    "global_chamfer": 0.04767611194697954,
+    "global_artifacts": 38
+  },
+  {
+    "file": "valve_0475_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014535294842576499,
+    "global_hausdorff": 0.08420322178045532,
+    "global_chamfer": 0.038370891904193266,
+    "global_artifacts": 30
+  },
+  {
+    "file": "valve_0476_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014438139602911411,
+    "global_hausdorff": 0.11254887316316088,
+    "global_chamfer": 0.04447928240776667,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0478_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014615260201266266,
+    "global_hausdorff": 0.14236962711379966,
+    "global_chamfer": 0.04868927447091571,
+    "global_artifacts": 31
+  },
+  {
+    "file": "valve_0479_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014935782132044991,
+    "global_hausdorff": 0.13036364151398547,
+    "global_chamfer": 0.04753308355722266,
+    "global_artifacts": 27
+  },
+  {
+    "file": "valve_0480_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014883744041118373,
+    "global_hausdorff": 0.09202479831177471,
+    "global_chamfer": 0.040984598387004974,
+    "global_artifacts": 53
+  },
+  {
+    "file": "valve_0481_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014400190535521034,
+    "global_hausdorff": 0.1462092602301821,
+    "global_chamfer": 0.050196354981806864,
+    "global_artifacts": 41
+  },
+  {
+    "file": "valve_0482_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014935606474691407,
+    "global_hausdorff": 0.1153679795185456,
+    "global_chamfer": 0.04326349622546281,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0483_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013776505316175762,
+    "global_hausdorff": 0.12599106392866294,
+    "global_chamfer": 0.04270286313787092,
+    "global_artifacts": 44
+  },
+  {
+    "file": "valve_0485_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01449031932344654,
+    "global_hausdorff": 0.09313261053327078,
+    "global_chamfer": 0.04042354724969583,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0487_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014622287049673898,
+    "global_hausdorff": 0.11662453637336789,
+    "global_chamfer": 0.0431829396993762,
+    "global_artifacts": 47
+  },
+  {
+    "file": "valve_0488_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014918479529772767,
+    "global_hausdorff": 0.14508568852650922,
+    "global_chamfer": 0.051868982317250845,
+    "global_artifacts": 45
+  },
+  {
+    "file": "valve_0489_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014367257203215036,
+    "global_hausdorff": 0.16600970734541792,
+    "global_chamfer": 0.05262904977907926,
+    "global_artifacts": 46
+  },
+  {
+    "file": "valve_0491_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014345056837431132,
+    "global_hausdorff": 0.09794849544242211,
+    "global_chamfer": 0.040137442539756936,
+    "global_artifacts": 42
+  },
+  {
+    "file": "valve_0492_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015308846210770043,
+    "global_hausdorff": 0.13283229400388918,
+    "global_chamfer": 0.04840372947399855,
+    "global_artifacts": 37
+  },
+  {
+    "file": "valve_0493_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014857328082042699,
+    "global_hausdorff": 0.12902556962678233,
+    "global_chamfer": 0.04787868992771699,
+    "global_artifacts": 34
+  },
+  {
+    "file": "valve_0494_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014440598903089342,
+    "global_hausdorff": 0.09400897354314197,
+    "global_chamfer": 0.040559076095990715,
+    "global_artifacts": 24
+  },
+  {
+    "file": "valve_0495_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014892577984675526,
+    "global_hausdorff": 0.10434783951714016,
+    "global_chamfer": 0.04077463113227485,
+    "global_artifacts": 26
+  },
+  {
+    "file": "valve_0496_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014341921631806632,
+    "global_hausdorff": 0.11337432249125456,
+    "global_chamfer": 0.042525288019750494,
+    "global_artifacts": 28
+  },
+  {
+    "file": "valve_0499_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014748732436830794,
+    "global_hausdorff": 0.10299291104926157,
+    "global_chamfer": 0.0419062409247894,
+    "global_artifacts": 50
+  },
+  {
+    "file": "valve_0500_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014806744607566836,
+    "global_hausdorff": 0.11166668861825024,
+    "global_chamfer": 0.04143276468184376,
+    "global_artifacts": 44
+  }
+]

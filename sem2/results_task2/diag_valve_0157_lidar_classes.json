@@ -1,0 +1,110 @@
+{
+  "file": "valve_0157_lidar_classes.ply",
+  "steps": [
+    {
+      "step": "load",
+      "ok": true,
+      "n_points": 12781,
+      "dt_s": 0.021991252899169922
+    },
+    {
+      "step": "preprocess",
+      "ok": true,
+      "n_points": 12289,
+      "dt_s": 0.018916845321655273
+    },
+    {
+      "step": "split",
+      "ok": true,
+      "n_segments": 11,
+      "dt_s": 0.0003478527069091797
+    },
+    {
+      "step": "segment",
+      "segment": 2,
+      "n_points": 820,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 11691,
+      "ok": true,
+      "dt_s": 0.175
+    },
+    {
+      "step": "segment",
+      "segment": 3,
+      "n_points": 64,
+      "type": "tube",
+      "method": "ball_pivoting",
+      "params": {
+        "radii": [
+          0.0316434130715421,
+          0.052739021785903506,
+          0.0843824348574456
+        ]
+      },
+      "mesh_triangles": 80,
+      "ok": true,
+      "dt_s": 0.022
+    },
+    {
+      "step": "segment",
+      "segment": 5,
+      "n_points": 1678,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 15189,
+      "ok": true,
+      "dt_s": 0.291
+    },
+    {
+      "step": "segment",
+      "segment": 6,
+      "n_points": 246,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 7820,
+      "ok": true,
+      "dt_s": 0.164
+    },
+    {
+      "step": "segment",
+      "segment": 7,
+      "n_points": 80,
+      "type": "tube",
+      "method": "ball_pivoting",
+      "params": {
+        "radii": [
+          0.03295392323980997,
+          0.05492320539968328,
+          0.08787712863949325
+        ]
+      },
+      "mesh_triangles": 66,
+      "ok": true,
+      "dt_s": 0.028
+    },
+    {
+      "step": "segment",
+      "segment": 8,
+      "n_points": 1647,
+      "type": "complex",
+      "method": "poisson",
+      "params": {
+        "depth": 8
+      },
+      "mesh_triangles": 10264,
+      "ok": true,
+      "dt_s": 0.225
+    }
+  ],
+  "ok": false
+}
